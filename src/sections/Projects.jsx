@@ -7,8 +7,8 @@ const projects = [
       "A fully responsive, interactive AI-powered chatbot built using Vite + React and powered by the Google Gemini (Generative AI) API.This project offers a smart, minimalist UI for prompt-based chatting, theme toggling, and chat history viewing.",
     image: "/projects/project1.png",
     tags: ["React", "Vite", "Tailwind CSS", "Google Gemini API", "Material UI"],
-    link: "https://github.com/it21302862/Gemini_AI_App",
-    github: "https://github.com/it21302862/Gemini_AI_App",
+    link: "",
+    github: "",
   },
   {
     title: "Background Removal Website",
@@ -16,8 +16,8 @@ const projects = [
       "A full-stack AI-powered background remover web application. Users can upload images and remove backgrounds instantly using the Remove.bg API. Authenticated via Clerk, deployed on Vercel, and fully responsive with credit-based usage plans.",
     image: "/projects/project2.png",
     tags: ["React", "Tailwind CSS", "Node js"],
-    link: "https://github.com/it21302862/background_removal_website",
-    github: "https://github.com/it21302862/background_removal_website",
+    link: "",
+    github: "",
   },
   {
     title: "Movie Website",
@@ -25,8 +25,8 @@ const projects = [
       "A fully responsive and interactive movie website built with React.js and Bootstrap. Explore movies, read blogs, filter by category, and watch trailers — all in one sleek UI.",
     image: "/projects/project3.png",
     tags: ["React", "Bootstrap"],
-    link: "https://github.com/it21302862/movie_website",
-    github: "https://github.com/it21302862/movie_website",
+    link: "",
+    github: "",
   },
   {
     title: "AF nasa web application",
@@ -34,8 +34,8 @@ const projects = [
       "Designed and developed a responsive frontend web application that displays NASA-related data through a modern and visually appealing user interface, focusing on usability and user experience.",
     image: "/projects/project4.png",
     tags: ["React.js", "Babel", "SWC", "Tailwind CSS"],
-    link: "https://github.com/it21302862/AF-Nasa-Deploy",
-    github: "https://github.com/it21302862/AF-Nasa-Deploy",
+    link: "",
+    github: "",
   },
 ];
 
